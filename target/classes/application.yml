@@ -16,4 +16,4 @@ spring:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
     hibernate:
       # Ne pas laisser en prod
-      ddl-auto: update
+      ddl-auto: create-drop

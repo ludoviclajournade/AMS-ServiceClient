@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d98c1d3-cd73-477e-a45e-d22d3a058bbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../TP_secu/springsecu" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TP_secu/springsecu" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -88,7 +90,7 @@
       <workItem from="1584092267336" duration="285000" />
       <workItem from="1584092566822" duration="3429000" />
       <workItem from="1584112640146" duration="210000" />
-      <workItem from="1584113739359" duration="592000" />
+      <workItem from="1584113739359" duration="1229000" />
     </task>
     <task id="LOCAL-00001" summary="Init Pro&#10;ject">
       <created>1583502335500</created>
