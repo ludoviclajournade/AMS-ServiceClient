@@ -4,8 +4,6 @@ package fr.miage.toulouse.m2.ams.zenewbank.app.entities.client;/*
  * and open the template in the editor.
  */
 
-import fr.miage.toulouse.m2.ams.zenewbank.app.entities.compte.Compte;
-
 import java.util.List;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -25,11 +23,7 @@ public class Client {
     
     public String nom;
 
-
     public String prenom;
-
-    @OneToMany
-    public List<Compte> comptes;
 
     public String getNom() {
         return nom;
@@ -45,14 +39,6 @@ public class Client {
 
     public void setPrenom(String prenom) {
         this.prenom = prenom;
-    }
-
-    public List<Compte> getComptes() {
-        return comptes;
-    }
-
-    public void setComptes(List<Compte> comptes) {
-        this.comptes = comptes;
     }
 
     public long getId() {

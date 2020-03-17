@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d98c1d3-cd73-477e-a45e-d22d3a058bbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AMS-projet-Spring-19-20__99__0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../AMS-projet-Spring-19-20__99__0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TP_secu/springsecu" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TP_secu/springsecu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/miage/toulouse/m2/ams/zenewbank/app/entities/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/miage/toulouse/m2/ams/zenewbank/app/entities/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/miage/toulouse/m2/ams/zenewbank/app/entities/compte/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/miage/toulouse/m2/ams/zenewbank/app/repo/CompteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/miage/toulouse/m2/ams/zenewbank/app/rest/CompteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/miage/toulouse/m2/ams/zenewbank/app/services/MetierCompte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fr/miage/toulouse/m2/ams/zenewbank/app/entities/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fr/miage/toulouse/m2/ams/zenewbank/app/entities/client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fr/miage/toulouse/m2/ams/zenewbank/app/entities/compte/Compte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fr/miage/toulouse/m2/ams/zenewbank/app/repo/CompteRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fr/miage/toulouse/m2/ams/zenewbank/app/rest/CompteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fr/miage/toulouse/m2/ams/zenewbank/app/services/MetierCompte.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -93,6 +101,8 @@
       <workItem from="1584092566822" duration="3429000" />
       <workItem from="1584112640146" duration="210000" />
       <workItem from="1584113739359" duration="2879000" />
+      <workItem from="1584432508292" duration="72000" />
+      <workItem from="1584436622552" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="Init Pro&#10;ject">
       <created>1583502335500</created>
@@ -135,6 +145,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../.." />
+    </ignored-roots>
     <MESSAGE value="Init Pro&#10;ject" />
     <MESSAGE value="Init Project" />
     <MESSAGE value="Remove" />
